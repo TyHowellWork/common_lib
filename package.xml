@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>common_lib</name>
+  <name>common</name>
   <version>0.0.0</version>
   <description>The common library for other Lidar Perception packages.</description>
 
